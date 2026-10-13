@@ -43,7 +43,7 @@ KitchenOS is a full-stack, comprehensive restaurant and cloud-kitchen operating 
 
 ### The Intelligent Dashboard
 > *A centralized command center for restaurant owners to track expenses, sales, and automated ledgers.*
-<img src=".github/assets/dashboard.gif" alt="KitchenOS Dashboard" width="100%" />
+<img src=".github/assets/dashboard.png" alt="KitchenOS Dashboard" width="100%" />
 
 ### Point of Sale Terminal
 > *Streamlined checkout flow and live order management directly from the web storefront.*
