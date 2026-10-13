@@ -14,7 +14,7 @@
 ---
 
 ## 📖 Overview
-KitchenOS is a full-stack, comprehensive restaurant and cloud-kitchen operating system engineered to handle everything from front-of-house sales to complex back-of-house logistics. Built with a robust Flask and PostgreSQL backend, it bridges the gap between intelligent inventory management, real-time storefront syncing, and localized tax compliance.
+KitchenOS is a full-stack, comprehensive restaurant and cloud-kitchen operating system engineered to handle everything from front-of-house sales to complex back-of-house logistics. Built with a robust Flask and PostgreSQL backend, it bridges the gap between intelligent inventory management, customer retention marketing, real-time storefront syncing, and localized tax compliance.
 
 ## ✨ Core Ecosystem
 
@@ -22,11 +22,13 @@ KitchenOS is a full-stack, comprehensive restaurant and cloud-kitchen operating 
 *   **Lightning-Fast POS:** Touch-optimized point-of-sale interface designed for rapid order entry and high-volume environments.
 *   **Client Storefront:** Fully integrated web storefront allowing customers to place orders directly into the KitchenOS ecosystem.
 *   **Live Order Tracking:** Real-time status updates for both the kitchen staff and the customer.
+*   **CRM & WhatsApp Marketing:** Built-in customer relationship manager seamlessly integrated with WhatsApp for targeted marketing broadcasts and automated customer retention campaigns.
 *   **Automated Alerts:** Email notifications dispatched for order statuses and End-of-Day (EOD) ledgers.
 
 ### ⚙️ Back-of-House & Operations
 *   **Intelligent Dashboard:** High-level overview of daily operations, sales metrics, and real-time expense management.
 *   **Dynamic Recipe BOM:** Advanced inventory tracking that deducts raw materials based on exact Bill of Materials (BOM) per dish sold.
+*   **HR & Staff Management:** Comprehensive workforce portal for attendance tracking, payroll automation, and strict role-based access control (RBAC).
 *   **Smart Supplier Management:** Automated Purchase Order (PO) generation triggered by low-stock thresholds, complete with email alerts.
 *   **Delivery Fleet Management:** End-to-end tracking and assignment for in-house delivery fleets.
 *   **Account & Ledger Management:** Built-in financial tracking for expenses, daily reconciliations, and supplier payments.
@@ -46,6 +48,14 @@ KitchenOS is a full-stack, comprehensive restaurant and cloud-kitchen operating 
 ### Point of Sale Terminal
 > *Streamlined checkout flow and live order management directly from the web storefront.*
 <img src=".github/assets/pos-terminal.png" alt="POS Terminal" width="100%" />
+
+### CRM & WhatsApp Automation
+> *Engage directly with your customer base using targeted WhatsApp marketing campaigns.*
+<img src=".github/assets/crm-whatsapp.png" alt="CRM and WhatsApp Marketing" width="100%" />
+
+### HR & Staff Management
+> *Complete oversight of employee attendance, payroll, and system access rights.*
+<img src=".github/assets/hr-staff.png" alt="HR and Staff Management Dashboard" width="100%" />
 
 ### Automated BOM & Inventory 
 > *Precision tracking that turns finished sales into raw material deductions and automated supplier POs.*
