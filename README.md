@@ -65,7 +65,7 @@ One platform, one database, one source of truth.
 ### The Live Storefront
 > *Customer-facing web portal for seamless online ordering.*
 
-<img src=".github/assets/storefront.png" alt="Customer Storefront" width="100%" />
+<img src=".github/assets/storefront.gif" alt="Customer Storefront" width="100%" />
 
 ### The Intelligent Dashboard
 > *A centralized command center for owners to track expenses, sales, and automated ledgers.*
