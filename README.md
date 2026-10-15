@@ -219,7 +219,7 @@ KitchenOS is a subscription-based enterprise product. For a live demonstration, 
 KitchenOS is a flagship product developed by **[Boldise Technologies](https://boldise.com)**.
 
 - **Developer / Architect:** Safee Ullah Mughal
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** https://www.linkedin.com/showcase/kitchenos-by-boldise
 - **Email:** boldisetechnology@gmail.com
 - **Company:** [boldise.com](https://boldise.com)
 - **Live Storefront:** [test.boldise.com](https://test.boldise.com)
